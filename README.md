@@ -1,5 +1,7 @@
 <p align="center">
-  <a><img src="web/src/images/Logo.svg" height="250" width="250" alt="Unform" />Happy</a>
+  <a>
+     <img src="web/src/images/Logo.svg" height="250" width="250" alt="Unform" />
+  </a>
 </p>
 
 <h3 align="center">
