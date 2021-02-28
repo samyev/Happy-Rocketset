@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-     <img src="web/src/images/Logo.svg" height="450" width="450" alt="Unform" />
+     <img src="web/src/images/Logo.svg" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
